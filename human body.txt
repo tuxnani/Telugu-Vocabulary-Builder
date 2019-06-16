@@ -1,0 +1,64 @@
+head
+face
+forehead
+cheek
+eye
+eyebrow
+eyelid
+eye lens
+tears (of eye)
+nose
+moustache
+lips
+mouth
+tongue
+teeth
+gums(of teeth)
+chin
+beard
+ear
+neck
+parting of the hair
+hair
+(jada) hair locks tied in Indian style
+baldness
+clean shaven head
+shoulders
+hands
+arms
+wrist
+palm
+fingers
+thumb
+index finger
+middle finger
+ring finger
+little finger
+nails
+fist
+chest
+stomach
+navel
+back
+thigh
+foot
+leg
+knee
+ankle
+heel
+foot sole
+waist
+scratch
+blood
+mole
+swelling
+boil (wound)
+skull
+brain
+skeleton
+spine
+bone
+heart
+lungs
+intestines
+liver
