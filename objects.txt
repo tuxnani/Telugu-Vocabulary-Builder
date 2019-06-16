@@ -1,0 +1,768 @@
+gown
+frock
+jacket
+saree
+saree border
+long skirt
+ribbon
+hand kerchief
+hand towel (worn by men on shoulder)
+lungi/veshti
+towel
+dhoti
+shirt
+shirt pocket
+shirt button
+long shirt
+vest
+brief
+nicker/short
+pyjama
+trouser
+cap
+turban tied on head
+stain on clothes
+jewelery
+nose ring
+ear ring
+ear hanging
+necklace
+long jewels worn to neck
+stones
+gaarland
+talisman
+bangles
+ring
+diamond
+waist belt (jewel)
+waist belt (thread)
+anklet
+anklet with small bells
+tilakam
+glasses
+jadagantalu
+wrist watch
+medal
+footwear
+coat
+handstick for support
+home
+multistoried building
+thatched roof hut
+tent
+palace
+room
+entrance
+waall
+crack in wall
+brick
+pillar
+roof
+tile
+floor
+ceiling
+corner
+steps/staircase
+entrance
+door
+door sill
+door latch
+door bolt
+door handle
+window
+window grill
+door hinges
+kitchen
+chimney
+dining hall
+pooja room
+bedroom
+bathroom
+lavetory
+fence
+main gate
+arch
+muggu design
+well
+pulley
+key
+lock
+chair
+easy chair
+table
+bed
+swing
+cot
+couch/sofa
+pillow
+blanket
+mat
+carpet
+doormat/foot mat
+baby crib
+baby cradle
+cupboard/cabin/wardrobe
+curtain
+mosquito net
+hand fan
+electric fan
+bulb
+switch
+electric light
+lamp
+earthen lamp
+lantern
+lamp wick
+candle
+radio
+television
+telephone
+flower vase
+wall clock
+table clock
+board
+frame
+photograph/picture
+scenary
+iron box
+mirror
+mirror image
+comb
+blade
+umbrella
+bottle
+bottle cork
+milk bottle for kids
+knot
+rope
+pin
+needle
+safety pin
+thread
+scissors
+bag
+box
+sack
+broom
+dustbin
+basket
+bigger basket for holding grain
+bucket
+soap
+fire
+ladder
+barrel
+winnowing basket
+seive
+flask
+tap
+water pipe
+small pitcher
+pot
+earthen pot
+small pot/lota
+pot sling
+porcelain/china clay jar
+churner
+utensil
+lid to utensil
+bowl
+spoon
+ladle
+flat ladle
+mesh ladle
+plate
+glass
+roti plate
+rolling pin
+frying pan
+pan
+dry grind stone
+wet grind stone
+grinding stone
+sannikallu
+pestle
+lancet/knife (kattipeeta)
+coconut grater
+small knife
+knife used to cut grass
+nutcracker
+bamboo basket with cover
+small box to store kumkum/turmeric
+funnel
+firewood stove
+matchbox
+matchstick
+fire
+smoke
+onion
+garlic
+potato
+yam
+groundnut
+cashewnut
+dried ginger
+ginger
+chilli
+cardamom
+clove
+banana
+mango
+pineapple
+jackfruit
+grapes
+papaya
+cashewnut fruit
+pomogrenate
+orange
+sweetlime
+apple
+carrot
+radish
+peas
+legume
+cluster beans
+cabbage
+turnip
+tomato
+banana flower
+karela
+cucumber
+drumstick
+brinjal
+pumpkin
+ash gourd
+okra
+snake gourd
+ridge gourd
+coconut
+tamarind
+lime/lemon
+mushroom
+curry leaf
+betel leaf
+betel nut/arecanut
+meal
+idly
+dosa
+school
+class
+library
+newspaper
+book
+pen
+pencil
+signature
+nib
+tip of pencil
+slate
+slate pencil
+chalk
+black board
+paper
+round head pin
+inkpot
+map
+line
+circle
+angle
+triangle
+square
+rectangle
+addition
+subtraction
+multiplication
+division
+laboratory
+magnifying glass
+microscope
+telescope
+calendar
+date
+month
+year
+scale
+plough
+yoke
+sickle
+grass heap
+spade
+shovel
+axe
+hoe
+hammer
+nail
+screw
+chisel
+file
+saw
+pair of tongs
+oil mill
+thread spinner
+charkha/spinning wheel
+sewing machine
+loom
+fishing rod
+fishing net
+bow
+arrow
+quiver
+sword
+scabbard
+shield
+spear
+elephant mahout's hook
+industry
+machine
+gun
+brush
+trowel
+blacksmith
+clinic/hospital
+thermometer
+injection
+medicine
+tablet
+temple
+temple tower kalash
+temple pole
+temple entrance tower
+temple mandapam
+lamp keeping grove in walls
+conch
+church
+crucifix/cross
+mosque
+moneybox for donations
+fire altar for sacrifices
+statue
+vigraha
+temple bell
+chariot
+flambeau
+crown
+mace
+trishool
+mask
+throne
+chowrie
+howdah
+canopy
+flower arch
+cymbals
+veena
+tampura
+flute
+tabla
+nagaswaram
+harmonium
+mridangam
+ghatam
+dance with small sticks in hands
+wrestling
+movie
+circus
+music concert
+microphone
+speaker
+kite (playing kite)
+whistle
+top
+toy
+swing to tree
+ball
+playground
+chess
+playing cards
+sprinkler used in holi
+gift
+grave
+coffin
+letter
+posted letter
+received letter
+address
+stamp
+stamp mark from postal officials
+postbox
+coin
+money
+flag
+handcuffs
+chain
+jail
+shop
+scales
+weights
+wheel
+cart
+bullock cart
+horse buggy
+bicycle
+car
+bus
+truck
+palanquin
+bridle
+whip used to beat animals to make them move
+path
+road
+small lane
+train
+train rails
+ship
+boat
+anchor
+flight/aeroplane
+rocket
+satellite
+cat
+dog
+goat
+sheep
+cow
+bull
+ox
+buffalo
+he buffalo
+calf
+horse
+donkey
+pig
+monkey
+rabbit
+mouse
+squirrel
+mongoose
+deer
+porcupine
+fox
+wolf
+wild buffalo
+lion
+tiger
+cheeta
+bear
+elephant
+camel
+rhino
+hippo
+zebra
+giraffe
+kangaroo
+tail
+tusk
+horn
+crow
+pigeon
+parrot
+hen
+cock/he fowl
+turkey bird
+ostrich bird
+sparrow
+wood pecker
+peacock
+peacock feather
+crane/stork
+falcon/hawk
+eagle
+owl
+duck
+swan
+feather
+wings
+beak
+eggs
+nest
+cage
+bat
+house fly
+bee
+beehive
+wasp
+beetle/bug
+louse
+mosquito
+ant
+bumblebee
+butterfly
+grasshopper
+praying mantis
+dragonfly
+spider
+cockroach
+house lizard
+garden lizard
+chamaleon
+scorpion
+leech
+centiped
+milliped
+snail
+oyster
+worm
+earth worm
+crab
+tortoise
+frog
+tiny frog with tail
+crocodile
+fish
+prawn/shrimp
+whale
+shark
+snake
+snake hood
+python
+tree
+plant
+creeper
+grass
+root
+stem
+branch node
+branch
+leaf
+bud
+flower
+flower stalk
+petal
+fruit
+seed
+seedling
+greenery
+throns of plant
+cactus
+wooden log
+coconut tree
+coconut leaf
+coconut fiber
+coconut shell
+mango tree
+tamarind tree
+jackfruit tree
+papaya tree
+arecanut tree
+banana tree
+palmyra tree
+banyan tree
+lemon tree
+sugarcane
+cane node
+cane stubs
+cane stick
+rice plant
+corn
+maize
+lotus
+hibiscus
+rose
+chrysanthamum
+sunflower
+marigold
+jasmine
+nutmeg flower
+flower boquet
+flower pot
+solar system
+sun
+moon
+stars
+galaxy
+earth
+east
+west
+north
+south
+darkness
+light
+shadow
+clouds
+shade
+thunderbolt
+rain
+rainbow
+sea
+wave
+shore
+forest
+desert
+volcano
+mountain
+peak
+cave
+tunnel
+rock
+island
+river
+lake
+tank
+channel
+whirlpool
+bridge
+dam
+waterfall
+water
+water drop
+water bubbles/froth
+froth
+village
+city
+fort
+field
+garden
+pit
+eyes
+teeth
+footsteps
+fingers
+gems
+jewels
+garlands
+footwear (plural)
+huts
+bottles
+locks
+bundles
+balls
+radios
+scissors
+bags
+lamps
+many pot hangings
+glasses
+plates
+pulleys
+books
+notes
+coins
+arrows
+carts
+cars
+flights
+birds
+hens
+feathers
+cats
+goats
+oxen
+monkeys
+camels
+snakes
+bees
+cockroches
+trees
+roots
+vegetables
+chillies
+flowers
+fruits
+bunch of grapes
+rocks
+stars
+toddler
+child
+girl child
+man
+woman
+bride
+bride groom
+oldman
+old woman
+blind
+crooked/humped back person
+lame/crippled
+student
+teacher
+doctor
+dentist
+nurse
+patient
+carrying mother
+lawyer/pleader
+judge
+scientist
+driver
+pilot
+astronaut
+postman
+sportsman
+sprtswoman
+police
+thief
+prisoner
+soldier
+guard
+singer
+female singer
+king
+queen
+emperor
+farmer
+businessman
+bamboo basket weaver
+flower garland seller
+weaver
+tailor
+washerman
+sculptor
+builder
+carpenter
+painter
+artist
+goldsmith
+ironsmith
+potter
+fisherman
+meat butcher
+mahout
+snake charmer
+hunter
+coolie
+gardener
+joker
+dancer
+beggar
+priest
+ascetic
+nun
+father (in church)
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+twenty one
+thirty
+thirty two
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+two hundred
+thousand
+ten thousand 
+lakh
+crore
+three fourths
+half
+one fourth
